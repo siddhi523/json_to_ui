@@ -12,7 +12,7 @@
     "react-burger-menu": "^2.7.0",
     "react-dom": "^16.13.1",
     "react-nested-json-table": "^0.2.0",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "react-simple-sidenav": "^2.0.0"
   },
   "scripts": {
